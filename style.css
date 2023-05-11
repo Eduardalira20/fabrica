@@ -1,0 +1,30 @@
+header{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    padding: 0.50rem;
+    margin: 0;
+    gap: 10em;
+}
+
+.container a {
+    margin-right: 30px;
+}
+
+.topicos{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 70px;
+}
+
+.img{
+    margin-left: 330px;
+ }
+
+.txt{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 75px;
+}
+
+
+
